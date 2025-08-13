@@ -1,0 +1,164 @@
+The comments related to the case include contacting engineering for a PDF of the wiring diagram, emailing the diagram to the customer while awaiting a reply, and noting that the generator was manufactured in 2019. This case, which seeks guidance on electrical wiring installation for GC5060, has a priority level classified as Low and is categorized as Electrical.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+Summarize the concatenation of the contents of the comment bodies of <div><code><pre>{
+   "records": [
+      {
+         "id": "00adM00000A5kB7QAJ",
+         "apiName": "CaseComment",
+         "recordTypeId": null,
+         "fields": [
+            {
+               "name": "CommentBody",
+               "value": "Contacted engineering to obtain a PDF of the wiring diagram."
+            },
+            {
+               "name": "CreatedBy",
+               "value": {
+                  "lastModifiedDate": null,
+                  "eTag": "eaca78fdf2c6def92fca5b9140f33636",
+                  "weakEtag": 0,
+                  "fields": {
+                     "Id": {
+                        "eTag": "4310f88ad1418076c3878a99ca5c7ff7",
+                        "weakEtag": 0,
+                        "value": "005dM00000MUFRZQA5",
+                        "displayValue": null
+                     },
+                     "Name": {
+                        "eTag": "4310f88ad1418076c3878a99ca5c7ff7",
+                        "weakEtag": 0,
+                        "value": "OrgFarm EPIC",
+                        "displayValue": null
+                     }
+                  },
+                  "id": "005dM00000MUFRZQA5",
+                  "apiName": "Name",
+                  "recordTypeInfo": null,
+                  "systemModstamp": null,
+                  "lastModifiedById": null,
+                  "recordTypeId": null,
+                  "childRelationships": {}
+               }
+            },
+            {
+               "name": "CreatedDate",
+               "value": "8/10/2025, 9:29 AM"
+            },
+            {
+               "name": "Id",
+               "value": "00adM00000A5kB7QAJ"
+            },
+            {
+               "name": "LastModifiedDate",
+               "value": "1754843341000"
+            }
+         ]
+      },
+      {
+         "id": "00adM00000A5kB8QAJ",
+         "apiName": "CaseComment",
+         "recordTypeId": null,
+         "fields": [
+            {
+               "name": "CommentBody",
+               "value": "Emailed diagram to the customer, awaiting reply."
+            },
+            {
+               "name": "CreatedBy",
+               "value": {
+                  "lastModifiedDate": null,
+                  "eTag": "eaca78fdf2c6def92fca5b9140f33636",
+                  "weakEtag": 0,
+                  "fields": {
+                     "Id": {
+                        "eTag": "4310f88ad1418076c3878a99ca5c7ff7",
+                        "weakEtag": 0,
+                        "value": "005dM00000MUFRZQA5",
+                        "displayValue": null
+                     },
+                     "Name": {
+                        "eTag": "4310f88ad1418076c3878a99ca5c7ff7",
+                        "weakEtag": 0,
+                        "value": "OrgFarm EPIC",
+                        "displayValue": null
+                     }
+                  },
+                  "id": "005dM00000MUFRZQA5",
+                  "apiName": "Name",
+                  "recordTypeInfo": null,
+                  "systemModstamp": null,
+                  "lastModifiedById": null,
+                  "recordTypeId": null,
+                  "childRelationships": {}
+               }
+            },
+            {
+               "name": "CreatedDate",
+               "value": "8/10/2025, 9:29 AM"
+            },
+            {
+               "name": "Id",
+               "value": "00adM00000A5kB8QAJ"
+            },
+            {
+               "name": "LastModifiedDate",
+               "value": "1754843341000"
+            }
+         ]
+      },
+      {
+         "id": "00adM00000A5kB9QAJ",
+         "apiName": "CaseComment",
+         "recordTypeId": null,
+         "fields": [
+            {
+               "name": "CommentBody",
+               "value": "The generator was manufactured in 2019."
+            },
+            {
+               "name": "CreatedBy",
+               "value": {
+                  "lastModifiedDate": null,
+                  "eTag": "eaca78fdf2c6def92fca5b9140f33636",
+                  "weakEtag": 0,
+                  "fields": {
+                     "Id": {
+                        "eTag": "4310f88ad1418076c3878a99ca5c7ff7",
+                        "weakEtag": 0,
+                        "value": "005dM00000MUFRZQA5",
+                        "displayValue": null
+                     },
+                     "Name": {
+                        "eTag": "4310f88ad1418076c3878a99ca5c7ff7",
+                        "weakEtag": 0,
+                        "value": "OrgFarm EPIC",
+                        "displayValue": null
+                     }
+                  },
+                  "id": "005dM00000MUFRZQA5",
+                  "apiName": "Name",
+                  "recordTypeInfo": null,
+                  "systemModstamp": null,
+                  "lastModifiedById": null,
+                  "recordTypeId": null,
+                  "childRelationships": {}
+               }
+            },
+            {
+               "name": "CreatedDate",
+               "value": "8/10/2025, 9:29 AM"
+            },
+            {
+               "name": "Id",
+               "value": "00adM00000A5kB9QAJ"
+            },
+            {
+               "name": "LastModifiedDate",
+               "value": "1754843341000"
+            }
+         ]
+      }
+   ]
+}</pre></code></div> along with the text from Seeking guidance on electrical wiring installation for GC5060, the case priority which is Low, and the case type which is Electrical. Keep the response to a single short paragraph.
