@@ -20,3 +20,7 @@ image 2.1
 
 image 2.2
 <img width="3790" height="1798" alt="image" src="https://github.com/user-attachments/assets/917605bb-2059-4e7e-8376-5eebc00fa7c2" />
+
+
+image 3.1
+<img width="3775" height="1740" alt="image" src="https://github.com/user-attachments/assets/28cf9d80-f579-4b5e-b5db-7c9d1307f404" />
