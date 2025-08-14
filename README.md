@@ -12,3 +12,8 @@ case record Quick Summary field
 image 1.3
 pop-up Einstein fill case quick summary field
 <img width="570" height="1095" alt="image" src="https://github.com/user-attachments/assets/e5ec4c68-5f71-45cc-ac21-91265e3fe007" />
+
+
+image 2.1
+<img width="3550" height="1928" alt="image" src="https://github.com/user-attachments/assets/a936fbfc-8b4f-4aa3-8a7c-e86d9834e9b1" />
+
