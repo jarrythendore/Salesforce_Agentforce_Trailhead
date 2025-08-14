@@ -17,3 +17,6 @@ pop-up Einstein fill case quick summary field
 image 2.1
 <img width="3550" height="1928" alt="image" src="https://github.com/user-attachments/assets/a936fbfc-8b4f-4aa3-8a7c-e86d9834e9b1" />
 
+
+image 2.2
+<img width="3790" height="1798" alt="image" src="https://github.com/user-attachments/assets/917605bb-2059-4e7e-8376-5eebc00fa7c2" />
